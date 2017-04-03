@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Attendance Mail",
+  "description": "This extension sends mail for kintai.",
+  "version": "0.0.1",
+  "icons": {
+    "16": "image/icon/16.png",
+    "64": "image/icon/64.png"
+  },
+  "browser_action": {
+    "default_icon": "image/icon/16.png"
+  }
+}
